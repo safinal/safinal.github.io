@@ -1,0 +1,34 @@
+{
+    "socialMedias": [
+        {
+            "alt": "mail",
+            "image": "/images/socialMedia/mail.svg",
+            "link": "mailto:alisafinal2001@gmail.com"
+        },
+        {
+            "alt": "googleScholar",
+            "image": "/images/socialMedia/googleScholar.svg",
+            "link": "https://scholar.google.com/citations?user=SM_UuoQAAAAJ&hl=en"
+        },
+        {
+            "alt": "X",
+            "image": "/images/socialMedia/X.svg",
+            "link": "https://x.com/AliSafinal"
+        },
+        {
+            "alt": "LinkedIn",
+            "image": "/images/socialMedia/linkedin.svg",
+            "link": "https://www.linkedin.com/in/safinal"
+        },
+        {
+            "alt": "github",
+            "image": "/images/socialMedia/github.svg",
+            "link": "https://github.com/safinal"
+        },
+        {
+            "alt": "cv",
+            "image": "/images/socialMedia/cv.svg",
+            "link": "/CV/Ali_Nafisi_CV.pdf"
+        }
+    ]
+}

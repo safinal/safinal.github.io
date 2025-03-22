@@ -1,0 +1,20 @@
+{ 
+  "TalksPresentations": [
+    {
+      "title": "Enhancing Low-light Images: A Survey",
+      "year": "Summer 2023",
+      "journal": "Bu-Ali Sina University",
+      "image": "/images/TalksPresentations/LLIE.png",
+      "slides": "https://drive.google.com/file/d/1Fr6Q5XYuPcqlg2iuSVSisQSlgn_y7jAd/view",
+      "url": ""
+    },
+    {
+      "title": "An Introduction to Artificial Intelligence",
+      "year": "Spring 2023",
+      "journal": "Bu-Ali Sina University",
+      "image": "/images/TalksPresentations/AI_Talk.png",
+      "slides": "https://drive.google.com/file/d/134g-uFQSVZzTMaGXgPNcsFh_EI-7Mixb/view?usp=sharing",
+      "url": ""
+    }
+  ]
+}

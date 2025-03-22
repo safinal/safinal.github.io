@@ -1,0 +1,50 @@
+{
+  "publications": [
+    {
+      "title": "Elastic deep autoencoder for text embedding clustering by an improved graph regularization",
+      "journal": "Expert Systems with Applications",
+      "year": "2024",
+      "authors": [
+        {
+          "name": "F. Daneshfar",
+          "link": "https://scholar.google.com/citations?user=js7wMN4AAAAJ&hl=en",
+          "co": false
+        },
+        {
+          "name": "S. Soleymanbaigi",
+          "link": "https://scholar.google.com/citations?user=8uql40MAAAAJ&hl=en",
+          "co": false
+        },
+        {
+          "name": "A. Nafisi",
+          "link": "https://scholar.google.com/citations?user=SM_UuoQAAAAJ&hl=en",
+          "co": false
+        },
+        {
+          "name": "P. Yamini",
+          "link": "https://scholar.google.com/citations?user=ig9CqywAAAAJ&hl=en",
+          "co": false
+        }
+      ],
+      "image": "/images/publications/1-s2.0-S0957417423022820-gr3_lrg.jpg",
+      "url": "https://doi.org/10.1016/j.eswa.2023.121780",
+      "bibtex": {
+        "data": {
+          "@article": "DANESHFAR2024121780",
+          "title": "Elastic deep autoencoder for text embedding clustering by an improved graph regularization",
+          "Journal": "Expert Systems with Applications",
+          "volume": "238",
+          "pages": "121780",
+          "year": "2024",
+          "issn": "0957-4174",
+          "doi": "https://doi.org/10.1016/j.eswa.2023.121780",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0957417423022820",
+          "author": "Fatemeh Daneshfar and Sayvan Soleymanbaigi and Ali Nafisi and Pedram Yamini",
+          "keywords": "Deep autoencoder, Text clustering, Graph regularization, Text embedding",
+          "abstract": "Text clustering is a task for grouping extracted information of the text in different clusters, which has many applications in recommender systems, sentiment analysis, and more. Deep learning-based methods have become increasingly popular due to their high accuracy in identifying nonlinear structures. They usually consist of two major parts: dimensionality reduction and clustering. Autoencoders are simple unsupervised neural networks used for better representation of low-dimensional data and have shown good performance in dealing with non-linear features. However, while they utilize the Frobenius norm to deal well with Gaussian noise, they are sensitive to outlier data and Laplacian noise. In this paper, a deep autoencoder with an adapted elastic loss for text embedding clustering (EDA-TEC) is proposed. The elastic loss is a combination of the Frobenius norm and L2,1-norm to consider both types of noises. Additionally, to maintain the high-dimensional data geometric structure, a modified graph regularization term based on the weighted cosine similarity measure is used. EDA-TEC also improves clustering results by considering the sparsity regularization of the manifold representation data. In this jointly end-to-end deep learning model, better representation and text clustering results are achieved with high accuracy on common datasets compared to existing methods.11https://github.com/safinal/text-embedding-clustering."
+        }
+      },
+      "pdf": "https://www.researchgate.net/publication/374150988_Elastic_Deep_Autoencoder_for_Text_Embedding_Clustering_by_an_Improved_Graph_Regularization?enrichId=rgreq-186b1411c3be642a97d3cf37f168ddb9-XXX&enrichSource=Y292ZXJQYWdlOzM3NDE1MDk4ODtBUzoxMTQzMTI4MTIwMDI3NzEwN0AxNjk3ODE0NDMyNTU1&el=1_x_2&_esc=publicationCoverPdf"
+    }
+  ]
+}

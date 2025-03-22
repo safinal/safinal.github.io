@@ -1,0 +1,28 @@
+{
+    "experience": [
+        {
+            "position": "Graduate Student Researcher",
+            "laboratory": "Robot Intelligence & Vision Lab",
+            "url": "https://rivlab.github.io",
+            "logo": "/images/experience/robot.svg",
+            "type": "Work Study",
+            "date": "October 2023 - Present",
+            "information": [
+                "Under the supervision of Prof. Hassan Khotanlou."
+            ]
+        },
+        {
+            "position": "Software Developer",
+            "laboratory": "Quera",
+            "url": "https://quera.org",
+            "logo": "/images/experience/logo-q.3-3aee17faf53e.svg",
+            "type": "Part-time",
+            "date": "March 2021 - February 2022",
+            "information": [
+                "Create and optimize courses tutorials.",
+                "Design programming problems and develop unit tests for them to judge the submitted answers.",
+                "Help students to debug their codes and solve their issues"
+            ]
+        }
+    ]
+}

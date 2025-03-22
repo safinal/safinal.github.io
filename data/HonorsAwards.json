@@ -1,0 +1,24 @@
+{
+    "awards": [
+        {
+            "date" : "March 2024",
+            "text" : ["Rank 2 in the final contest of the Quera Large Language Model Hackathon"]
+        },
+        {
+            "date" : "August 2023",
+            "text" : ["One of the top winners of the Irancell Labs Artificial Intelligence Hackathon"]
+        },
+        {
+            "date" : "June 2023",
+            "text" : ["Rank 3 in the 28th Computer Engineering regional olympiad (Region 5)"]
+        },
+        {
+            "date" : "July 2022",
+            "text" : ["Rank 1 in the 27th Computer Engineering regional olympiad (Region 5)"]
+        },
+        {
+            "date" : "December 2020",
+            "text" : ["Qualifying and participating in the ICPC 2020 regional contest (Asia Region)"]
+        }
+    ]
+}
