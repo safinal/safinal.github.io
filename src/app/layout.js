@@ -4,7 +4,7 @@ import Footer from "@/components/Footer";
 
 
 export const metadata = {
-  title: "Hossein Shakibania",
+  title: "Ali Nafisi",
   description: "MS Student in AI",
   icons: {
     icon: "/wave.png",
