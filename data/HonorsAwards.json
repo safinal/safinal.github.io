@@ -1,6 +1,10 @@
 {
     "awards": [
         {
+            "date" : "November 2024",
+            "text" : ["One of the top winners of the Tech Olympics 2024: Text Processing Track"]
+        },
+        {
             "date" : "March 2024",
             "text" : ["Rank 2 in the final contest of the Quera Large Language Model Hackathon"]
         },
