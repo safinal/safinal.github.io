@@ -18,7 +18,7 @@ const DetaiIntroduction = (props) => {
                     I am an MS student in Artificial Intelligence at Bu-Ali Sina University and a graduate student researcher at <a className="text-blue-500" href="https://rivlab.github.io/">Robot Intelligence & Vision Lab</a>, led by <a className="text-blue-500" href="https://scholar.google.com/citations?hl=en&user=5YX31NgAAAAJ">Prof. Hassan Khotanlou</a>. I completed my BS in Computer Engineering in 2023 at University of Kurdistan.
                 </p>
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    I am broadly interested in Multimodal Generative Models, particularly their applications in Trustworthy AI. My current research centers on Debiasing Image Datasets with Generative Models.
+                    I have broad interests in Deep Learning, with a particular focus on its applications in Trustworthy AI and Multimodal Generative Models. I am also passionate about Deep Learning-Guided Program Synthesis, aiming to develop intelligent systems capable of true invention, adaptation, and innovation. Additionally, I have a strong interest in Deep Reinforcement Learning, which I believe holds great potential for pushing the boundaries of AI beyond human-level performance across various domains. My current research centers on Debiasing Image Datasets with Generative Models.
                 </p>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
                     Feel free to reach out. I'm open to collaborations!
