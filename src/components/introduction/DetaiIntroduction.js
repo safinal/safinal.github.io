@@ -24,7 +24,7 @@ const DetaiIntroduction = (props) => {
                     Currently, my research is focused on Debiasing Image Datasets using Generative Models, addressing critical issues of fairness and reliability in AI systems.
                 </p>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    I’m always open to collaboration and connecting with others in the field. Feel free to reach out!
+                    I’m actively seeking a PhD position where I can continue to grow as a researcher and contribute to impactful, cutting-edge projects.
                 </p>
                 <EducationButton showEducation={showEducation} setShowEducation={setShowEducation} />
                 <div className={`${showEducation ? 'opacity-100' : 'opacity-0'} transition-opacity ease-in duration-700`}>
