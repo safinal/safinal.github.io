@@ -20,6 +20,7 @@ const DetaiIntroduction = (props) => {
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
                     I have broad interests in Deep Learning, with a particular focus on its applications in Trustworthy AI and Multimodal Generative Models. I am also passionate about Deep Learning-Guided Program Synthesis, aiming to develop intelligent systems capable of true invention, adaptation, and innovation. Additionally, I have a strong interest in Deep Reinforcement Learning, which I believe holds great potential for pushing the boundaries of AI beyond human-level performance across various domains.
                 </p>
+                <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
                     Currently, my research is focused on Debiasing Image Datasets using Generative Models, addressing critical issues of fairness and reliability in AI systems.
                 </p>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
