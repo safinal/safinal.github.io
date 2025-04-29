@@ -1,6 +1,6 @@
 import introductionRectangle2 from '../../../public/images/design/Rectangle 27 (8).svg';
 import introductionRectangle3 from '../../../public/images/design/introductionRectangle2.svg';
-import person from '../../../public/images/Ali_Nafisi_Profile.png';
+import person from '../../../public/images/Ali_Nafisi_Profile2.jpg';
 import Image from 'next/image';
 import Link from 'next/link';
 import { getData } from '../../../lib/getData';

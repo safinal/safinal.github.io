@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import mobileintroductionRectangle1 from '../../../public/images/design/mobileintroductionRectangle1.svg';
 import mobileintroductionRectangle2 from '../../../public/images/design/mobileintroductionRectangle2.svg';
-import person from '../../../public/images/Ali_Nafisi_Profile.png';
+import person from '../../../public/images/Ali_Nafisi_Profile2.jpg';
 import { getData } from '../../../lib/getData';
 import Link from 'next/link';
 import { BASE_URL } from '../../config';
