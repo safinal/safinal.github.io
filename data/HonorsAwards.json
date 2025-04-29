@@ -1,6 +1,10 @@
 {
     "awards": [
         {
+            "date" : "April 2025",
+            "text" : ["One of the top winners of the UT AI Hackathon"]
+        },
+        {
             "date" : "November 2024",
             "text" : ["One of the top winners of the Tech Olympics 2024: Text Processing Track"]
         },
