@@ -2,6 +2,10 @@
     "news": [
         {
             "date": "March 2024",
+            "text": ["Ranked 2nd in the final contest of the Quera Large Language Model Hackathon! 🏆"]
+        },
+        {
+            "date": "March 2024",
             "text": [
                 "I joined ",
                 {
