@@ -1,11 +1,11 @@
 { 
   "TalksPresentations": [
     {
-      "title": "Evolving Deep Convolutional Neural Networks for Image Classification",
+      "title": "Evolving Deep Convolutional Neural Networks for Image Classification (Paper Explained)",
       "year": "April 2024",
-      "image": "/images/Presentations/evocnn.png",
-      "slides": "https://t.me/AliSafinal/28",
-      "url": "https://www.youtube.com/watch?v=Jx3d_YkUDaY"
+      "image": "/images/Presentations/EvoCNN.jpg",
+      "slides": "https://drive.google.com/file/d/1Lob1zE0je_2fL8xwSvZshy_Vbf6RVlfT/view?usp=drive_link",
+      "url": "https://www.youtube.com/watch?v=bAmilJa5uOI"
     }
   ]
 }

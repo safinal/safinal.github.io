@@ -24,7 +24,7 @@ const Cart = (props) => {
       <div className="sm:col-span-2 flex flex-col justify-between ml-1.5 sm:ml-2 md:ml-10">
         <div>
           <div className="flex flex-col sm:flex-col-reverse mt-2">
-            <p className={`text-xs text-[#E3898B] mt-2 sm:mt-1 inline py-1 font-bold`}>{props.data.journal}, {props.data.year}</p>
+            <p className={`text-xs text-[#E3898B] mt-2 sm:mt-1 inline py-1 font-bold`}>{props.data.journal ? `${props.data.journal}, ${props.data.year}` : props.data.year}</p>
             {props.data.url ? (
               <Link href={props.data.url}>
                 <h1 className="font-bold text-sm md:text-base xl:text-lg 2xl:text-xl text-[#7C7D81]">
