@@ -14,7 +14,7 @@ export default function Home() {
   const news = getData('news.json');
   const awards = getData('HonorsAwards.json');
   const publications = getData('publications.json');
-  // const talksPresentations = getData('TalksPresentations.json');
+  const talksPresentations = getData('TalksPresentations.json');
   const experience = getData('Experience.json');
 
   return (
@@ -25,7 +25,7 @@ export default function Home() {
       <Publications data={publications} />
       <Experience data={experience}/>
       <HonorsAwards data={awards} />
-      {/* <TalksPresentations data={talksPresentations} /> */}
+      <TalksPresentations data={talksPresentations} />
       {/* <AcademicService /> */}
     </div>
   );

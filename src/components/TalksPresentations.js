@@ -16,7 +16,7 @@ const TalksPresentations = (props) => {
       <Image src={talksRectangle3} alt="" className="absolute right-8 top-[70%] -z-10 hidden lg:block" />
       <div className="container m-auto px-7 lg:px-10 xl:px-20 2xl:px-28 3xl:px-44 pt-8 md:pt-16">
         <div className="">
-          <p className="text-gray-dark  text-xl xl:text-2xl 2xl:text-3xl mb-3">Talks & Presentations</p>
+          <p className="text-gray-dark  text-xl xl:text-2xl 2xl:text-3xl mb-3">Presentations</p>
         </div>
         <div className="flex flex-col items-center justify-center pt-8 xl:pt-16">
           {props.data.TalksPresentations.slice(0, 3).map((talksPresentations, index) =>

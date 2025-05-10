@@ -1,20 +1,11 @@
 { 
   "TalksPresentations": [
     {
-      "title": "Enhancing Low-light Images: A Survey",
-      "year": "Summer 2023",
-      "journal": "Bu-Ali Sina University",
-      "image": "/images/TalksPresentations/LLIE.png",
-      "slides": "https://drive.google.com/file/d/1Fr6Q5XYuPcqlg2iuSVSisQSlgn_y7jAd/view",
-      "url": ""
-    },
-    {
-      "title": "An Introduction to Artificial Intelligence",
-      "year": "Spring 2023",
-      "journal": "Bu-Ali Sina University",
-      "image": "/images/TalksPresentations/AI_Talk.png",
-      "slides": "https://drive.google.com/file/d/134g-uFQSVZzTMaGXgPNcsFh_EI-7Mixb/view?usp=sharing",
-      "url": ""
+      "title": "Evolving Deep Convolutional Neural Networks for Image Classification",
+      "year": "April 2024",
+      "image": "/images/Presentations/evocnn.png",
+      "slides": "https://t.me/AliSafinal/28",
+      "url": "https://www.youtube.com/watch?v=Jx3d_YkUDaY"
     }
   ]
 }

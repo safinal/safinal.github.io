@@ -62,10 +62,10 @@ const Header = () => {
                         <li className={activeSection === 'HonorsSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Awards</li>
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'HonorsSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
                     </Link>
-                    {/* <Link href="#TalksSection">
+                    <Link href="#TalksSection">
                         <li className={activeSection === 'TalksSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Talks</li>
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'TalksSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
-                    </Link> */}
+                    </Link>
                     {/* <Link href="#AcademicServiceSection">
                         <li className={activeSection === 'AcademicServiceSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Academic Service</li>
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'AcademicServiceSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
