@@ -1,11 +1,7 @@
 {
     "news": [
         {
-            "date": "March 2024",
-            "text": ["Ranked 2nd in the final contest of the Quera Large Language Model Hackathon! 🏆"]
-        },
-        {
-            "date": "March 2024",
+            "date": "March 2025",
             "text": [
                 "I joined ",
                 {
@@ -14,6 +10,10 @@
                 },
                 "as a Graduate Student Researcher @ Bu-Ali Sina University."
             ]
+        },
+        {
+            "date": "March 2024",
+            "text": ["Ranked 2nd in the final contest of the Quera Large Language Model Hackathon! 🏆"]
         },
         {
             "date": "September 2023",
