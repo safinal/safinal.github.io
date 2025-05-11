@@ -6,9 +6,20 @@
             "url": "https://rivlab.github.io",
             "logo": "/images/experience/robot.svg",
             "type": "Work Study",
-            "date": "March 2024 - Present",
+            "date": "March 2025 - Present",
             "information": [
                 "Under the supervision of Prof. Hassan Khotanlou."
+            ]
+        },
+        {
+            "position": "AI Engineer",
+            "laboratory": "Matina AI",
+            "url": "https://www.linkedin.com/company/matinallm/",
+            "logo": "/images/experience/matina.jpg",
+            "type": "Part-time",
+            "date": "April 2024 - January 2025",
+            "information": [
+                "Working on LLMs and their applications."
             ]
         },
         {
