@@ -8,7 +8,8 @@
             "type": "Work Study",
             "date": "March 2025 - Present",
             "information": [
-                "Under the supervision of Prof. Hassan Khotanlou."
+                "Under the supervision of Prof. Hassan Khotanlou.",
+                "Working on Debiasing Image Datasets using Generative Models."
             ]
         },
         {
@@ -19,7 +20,8 @@
             "type": "Part-time",
             "date": "April 2024 - January 2025",
             "information": [
-                "Working on LLMs and their applications."
+                "Investigating LLM post-training approaches.",
+                "Creating LLM post-training datasets."
             ]
         },
         {
