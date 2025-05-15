@@ -1,6 +1,59 @@
 {
   "publications": [
     {
+      "title": "Matina: A Culturally-Aligned Persian Language Model Using Multiple LoRA Experts",
+      "journal": "ACL",
+      "year": "2025",
+      "authors": [
+        {
+          "name": "S. Bourbour",
+          "co": false
+        },
+        {
+          "name": "M. SeifKashani",
+          "co": false
+        },
+        {
+          "name": "J. Seraj",
+          "co": false
+        },
+        {
+          "name": "F. Taherinezhad",
+          "co": false
+        },
+        {
+          "name": "A. Nafisi",
+          "link": "https://scholar.google.com/citations?user=SM_UuoQAAAAJ&hl=en",
+          "co": false
+        },
+        {
+          "name": "F. Nadi",
+          "co": false
+        },
+        {
+          "name": "I. Barati",
+          "co": false
+        },
+        {
+          "name": "H. Hasani",
+          "co": false
+        },
+        {
+          "name": "M. Amiri",
+          "co": false
+        },
+        {
+          "name": "M. Masoudi",
+          "co": false
+        }
+      ],
+      "bibtex": {
+        "data": {
+          "title": "Matina: A Culturally-Aligned Persian Language Model Using Multiple LoRA Experts"
+        }
+      }
+    },
+    {
       "title": "Elastic deep autoencoder for text embedding clustering by an improved graph regularization",
       "journal": "Expert Systems with Applications",
       "year": "2024",
@@ -11,7 +64,6 @@
         },
         {
           "name": "S. Soleymanbaigi",
-          "link": "https://scholar.google.com/citations?user=8uql40MAAAAJ&hl=en",
           "co": false
         },
         {
@@ -21,7 +73,6 @@
         },
         {
           "name": "P. Yamini",
-          "link": "https://scholar.google.com/citations?user=ig9CqywAAAAJ&hl=en",
           "co": false
         }
       ],
