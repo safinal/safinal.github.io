@@ -38,7 +38,17 @@ const Cart = (props) => {
             )}
           </div>
           {props.author && <div className="text-[#A8AFB4] text-[9px] md:text-xs mt-2 md:mt-5">
-            {props.data.authors.map((author, index) => <Link className="hover:text-gray-dark" key={index} href={author.link}> {author.name}{author.co ? "*" : ""} {index + 1 !== props.data.authors.length && <span className="text-[#A8AFB4]"> | </span>}</Link>)}
+            {props.data.authors.map((author, index) => 
+              author.link ? (
+                <Link className="hover:text-gray-dark" key={index} href={author.link}>
+                  {author.name}{author.co ? "*" : ""} {index + 1 !== props.data.authors.length && <span className="text-[#A8AFB4]"> | </span>}
+                </Link>
+              ) : (
+                <span key={index} className="text-[#A8AFB4]">
+                  {author.name}{author.co ? "*" : ""} {index + 1 !== props.data.authors.length && <span className="text-[#A8AFB4]"> | </span>}
+                </span>
+              )
+            )}
           </div>}
         </div>
         <div className="[&>*]:mt-2 md:[&>*]:mt-4 flex flex-wrap [&>*]:mr-2 mb-0 sm:mb-2">
