@@ -15,16 +15,13 @@ const DetaiIntroduction = (props) => {
                 <p className="text-gray text-2xl xl:text-3xl 3xl:text-5xl font-medium mb-3 xl:mb-4 hidden md:block">Hello! I’m</p>
                 <h2 className="text-gray-dark text-3xl xl:text-4xl 3xl:text-6xl font-black hidden md:block">Ali Nafisi</h2>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-[10rem] md:mt-4 xl:mt-6 3xl:mt-10">
-                    I’m a Master’s student in Artificial Intelligence at Bu-Ali Sina University and a graduate researcher at the <a className="text-blue-500" href="https://rivlab.github.io/">Robot Intelligence & Vision Lab</a>, under the supervision of <a className="text-blue-500" href="https://scholar.google.com/citations?hl=en&user=5YX31NgAAAAJ">Prof. Hassan Khotanlou</a>. I earned my BSc in Computer Engineering from the University of Kurdistan in 2023.
+                    I’m currently completing my Master’s in Artificial Intelligence at Bu-Ali Sina University. I earned my B.Sc. in Computer Engineering from the University of Kurdistan in 2023.
                 </p>
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    I have broad interests in Deep Learning, with a particular focus on its applications in Trustworthy AI and Multimodal Generative Models. I am also passionate about Deep Learning-Guided Program Synthesis, aiming to develop intelligent systems capable of true invention, adaptation, and innovation. Additionally, I have a strong interest in Deep Reinforcement Learning, which I believe holds great potential for pushing the boundaries of AI beyond human-level performance across various domains.
+                    My research interests broadly include Deep Learning and Reinforcement Learning, with a particular focus on their applications in Trustworthy AI, Multimodal Generative Models, and Program Synthesis. My current work centers on debiasing image datasets using generative models, addressing critical challenges related to fairness and reliability in AI systems.
                 </p>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    Currently, my research is focused on Debiasing Image Datasets using Generative Models, addressing critical issues of fairness and reliability in AI systems.
-                </p>
-                <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    I’m actively seeking a PhD position where I can continue to grow as a researcher and contribute to impactful, cutting-edge projects.
+                    I’m actively seeking a Ph.D. position where I can continue to grow as a researcher and contribute to cutting-edge, high-impact projects.
                 </p>
                 <EducationButton showEducation={showEducation} setShowEducation={setShowEducation} />
                 <div className={`${showEducation ? 'opacity-100' : 'opacity-0'} transition-opacity ease-in duration-700`}>
