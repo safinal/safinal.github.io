@@ -47,14 +47,11 @@
           "co": false
         }
       ],
-      "image": "",
-      "url": "",
       "bibtex": {
         "data": {
           "title": "Matina: A Culturally-Aligned Persian Language Model Using Multiple LoRA Experts",
         }
       },
-      "pdf": ""
     },
     {
       "title": "Elastic deep autoencoder for text embedding clustering by an improved graph regularization",
