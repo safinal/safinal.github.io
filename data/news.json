@@ -1,5 +1,17 @@
 {
     "news": [
+        ""
+        {
+            "date": "May 2025",
+            "text": [
+                "Our paper on Culturally Aligning LLMs has been accepted to ",
+                {
+                    "word": "ACL",
+                    "url": "https://2025.aclweb.org/"
+                },
+                "! 🎉"
+            ]
+        },
         {
             "date": "March 2025",
             "text": [
