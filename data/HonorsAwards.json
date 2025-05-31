@@ -1,8 +1,12 @@
 {
     "awards": [
         {
+            "date" : "May 2025",
+            "text" : ["3rd place in the LLM Agents Hackathon, Sharif University of Technology"]
+        },
+        {
             "date" : "April 2025",
-            "text" : ["5th place in the first stage of the UT AI Hackathon"]
+            "text" : ["5th place in the first stage of the Quera UT AI Hackathon"]
         },
         {
             "date" : "March 2024",
