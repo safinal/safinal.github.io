@@ -47,7 +47,7 @@
           "co": false
         }
       ],
-      "image": "/images/publications/No_image_available.png",
+      "image": "/images/publications/matina.png",
       "bibtex": {
         "data": {
           "title": "Matina: A Culturally-Aligned Persian Language Model Using Multiple LoRA Experts"
