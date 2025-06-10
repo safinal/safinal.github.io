@@ -3,7 +3,7 @@ import News from "@/components/News";
 import Image from "next/image";
 import { getData } from "../../lib/getData";
 import Publications from "@/components/Publications";
-import HonorsAwards from "@/components/HonorsAwards";
+// import HonorsAwards from "@/components/HonorsAwards";
 import Experience from "@/components/Experience";
 import TalksPresentations from "@/components/TalksPresentations";
 import Research from "@/components/Research";
@@ -24,7 +24,7 @@ export default function Home() {
       <News data={news} />
       <Publications data={publications} />
       <Experience data={experience}/>
-      <HonorsAwards data={awards} />
+      {/* <HonorsAwards data={awards} /> */}
       <TalksPresentations data={talksPresentations} />
       {/* <AcademicService /> */}
     </div>

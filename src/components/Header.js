@@ -58,10 +58,10 @@ const Header = () => {
                         <li className={activeSection === 'experienceSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Experience</li>
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'experienceSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
                     </Link>
-                    <Link href="#HonorsSection">
+                    {/* <Link href="#HonorsSection">
                         <li className={activeSection === 'HonorsSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Awards</li>
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'HonorsSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
-                    </Link>
+                    </Link> */}
                     <Link href="#TalksSection">
                         <li className={activeSection === 'TalksSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Presentations</li>
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'TalksSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
@@ -91,9 +91,9 @@ const Header = () => {
                 <Link href="#experienceSection" onClick={() => setMobileBar(false)}>
                     <span className={activeSection === 'experienceSection' ? 'text-[#B1C7DE]' : 'text-white'}>Experience</span>
                 </Link>
-                <Link href="#HonorsSection" onClick={() => setMobileBar(false)}>
+                {/* <Link href="#HonorsSection" onClick={() => setMobileBar(false)}>
                     <span className={activeSection === 'HonorsSection' ? 'text-[#B1C7DE]' : 'text-white'}>Awards</span>
-                </Link>
+                </Link> */}
                 {/* <Link href="#TalksSection" onClick={() => setMobileBar(false)}>
                     <span className={activeSection === 'TalksSection' ? 'text-[#B1C7DE]' : 'text-white'}>Talks</span>
                 </Link> */}
