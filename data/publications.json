@@ -48,11 +48,25 @@
         }
       ],
       "image": "/images/publications/matina.png",
+      "url": "https://aclanthology.org/2025.findings-acl.1074/",
       "bibtex": {
         "data": {
-          "title": "Matina: A Culturally-Aligned Persian Language Model Using Multiple LoRA Experts"
+          "@inproceedings": "hosseinbeigi-etal-2025-matina-culturally",
+          "title": "Matina: A Culturally-Aligned {P}ersian Language Model Using Multiple {L}o{RA} Experts",
+          "author": "Hosseinbeigi, Sara Bourbour  and  SeifKashani, MohammadAli  and  Seraj, Javad  and  Taherinezhad, Fatemeh  and  Nafisi, Ali  and  Nadi, Fatemeh  and  Barati, Iman  and  Hasani, Hosein  and  Amiri, Mostafa  and  Masoudi, Mostafa",
+          "editor": "Che, Wanxiang  and  Nabende, Joyce  and  Shutova, Ekaterina  and  Pilehvar, Mohammad Taher",
+          "booktitle": "Findings of the Association for Computational Linguistics: ACL 2025",
+          "month": "jul",
+          "year": "2025",
+          "address": "Vienna, Austria",
+          "publisher": "Association for Computational Linguistics",
+          "url": "https://aclanthology.org/2025.findings-acl.1074/",
+          "pages": "20874--20889",
+          "ISBN": "979-8-89176-256-5",
+          "abstract": "Large language models (LLMs) are powerful tools for a variety of applications, but to interact effectively with users, they must align with the cultural values and linguistic nuances of their audience. However, existing LLMs often fall short in adequately modeling underrepresented languages and cultures, such as Persian, limiting their applicability and acceptance. To address this, we construct diverse, high-quality datasets specifically tailored to Persian linguistic and cultural contexts, ensuring a more authentic and context-aware training process. Using these datasets, we develop Matina, a Persian-focused multi-expert model designed to embody Iranian cultural values and linguistic structures. Matina is trained by fine-tuning LLaMA3.1 8B-Instruct models across five domains: culinary, tourism, socio-culture, translation, and summarization. These experts are combined using a classifier to create a unified multi-expert system. By leveraging culturally aligned datasets, Matina outperforms baseline models in both task performance and user satisfaction, demonstrating the importance of data-driven cultural adaptation in LLM development."       
         }
-      }
+      },
+      "pdf": "https://aclanthology.org/2025.findings-acl.1074.pdf"
     },
     {
       "title": "Elastic deep autoencoder for text embedding clustering by an improved graph regularization",
