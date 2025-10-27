@@ -18,7 +18,7 @@ const DetaiIntroduction = (props) => {
                     I’m currently completing my Master’s in Artificial Intelligence at Bu-Ali Sina University. I earned my B.Sc. in Computer Engineering from the University of Kurdistan in 2023.
                 </p>
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    My research interests broadly lie in Deep Learning, with a particular focus on its applications in Multimodal Generation, Trustworthiness, Symbolic AI, Reinforcement Learning, and Biomedical AI. My current work centers on debiasing image datasets using generative models.
+                    My research interests broadly lie in Deep Learning, with a particular focus on its applications in Multimodal Generation, Trustworthiness, Symbolic AI, and Reinforcement Learning. My current work centers on debiasing image datasets using generative models.
                 </p>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
                     I’m actively seeking a Ph.D. position where I can continue to grow as a researcher and contribute to cutting-edge, high-impact projects.
