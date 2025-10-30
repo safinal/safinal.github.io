@@ -15,13 +15,16 @@ const DetaiIntroduction = (props) => {
                 <p className="text-gray text-2xl xl:text-3xl 3xl:text-5xl font-medium mb-3 xl:mb-4 hidden md:block">Hello! I’m</p>
                 <h2 className="text-gray-dark text-3xl xl:text-4xl 3xl:text-6xl font-black hidden md:block">Ali Nafisi</h2>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-[10rem] md:mt-4 xl:mt-6 3xl:mt-10">
-                    I’m currently completing my Master’s in Artificial Intelligence at Bu-Ali Sina University. I earned my B.Sc. in Computer Engineering from the University of Kurdistan in 2023.
+                    I’m currently completing my MS in AI at Bu-Ali Sina University. I earned my BS in Computer Engineering from the University of Kurdistan in 2023.
                 </p>
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    My research interests broadly lie in Deep Learning, with a particular focus on its applications in Multimodal Generation, Trustworthy AI, Program Synthesis, and Reinforcement Learning. My current work explores the use of diffusion models for counterfactual data augmentation to mitigate spurious correlations in image datasets.
+                    My research interests broadly lie in Deep Learning, with a particular focus on its applications in Multimodal Generation, Trustworthy AI, Program Synthesis, and Reinforcement Learning.
+                </p>
+                <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
+                    My current work explores the use of diffusion models for counterfactual data augmentation to mitigate spurious correlations in image datasets.
                 </p>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    I’m actively seeking a Ph.D. position where I can continue to grow as a researcher and contribute to cutting-edge, high-impact projects.
+                    I’m actively seeking a PhD position where I can continue to grow as a researcher and contribute to cutting-edge, high-impact projects.
                 </p>
                 <EducationButton showEducation={showEducation} setShowEducation={setShowEducation} />
                 <div className={`${showEducation ? 'opacity-100' : 'opacity-0'} transition-opacity ease-in duration-700`}>
