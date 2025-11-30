@@ -18,7 +18,7 @@ const DetaiIntroduction = (props) => {
                     I’m currently completing my MS in AI at Bu-Ali Sina University. I earned my BS in Computer Engineering from the University of Kurdistan in 2023.
                 </p>
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    My research interests broadly lie in Deep Learning, with a particular focus on its applications in Multimodal Generation, Trustworthy AI, Program Synthesis, and Reinforcement Learning.
+                    My research interests broadly lie in Deep Learning, with a particular focus on its applications in Multimodal Models, Trustworthy AI, Program Synthesis, and Reinforcement Learning.
                 </p>
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
                     My current work explores the use of diffusion models for counterfactual data augmentation to mitigate spurious correlations in image datasets.
