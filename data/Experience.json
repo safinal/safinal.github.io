@@ -8,7 +8,6 @@
             "type": "Work Study",
             "date": "March 2025 - Present",
             "information": [
-                "Under the supervision of Prof. Hassan Khotanlou.",
                 "Exploring the use of diffusion models for counterfactual augmentation to mitigate spurious correlations in image datasets."
             ]
         },
@@ -20,8 +19,7 @@
             "type": "Part-time",
             "date": "April 2024 - January 2025",
             "information": [
-                "Investigating LLM post-training approaches.",
-                "Creating LLM post-training datasets."
+                "Investigated and implemented culturally-aligned LLM post-training approaches by creating specialized datasets and leveraging Multiple LoRA Experts, resulting in the model Matina and a published paper at ACL 2025."
             ]
         },
         {
@@ -32,9 +30,7 @@
             "type": "Part-time",
             "date": "March 2021 - February 2022",
             "information": [
-                "Create and optimize programming courses tutorials.",
-                "Design programming problems and develop unit tests for them to judge the submitted answers.",
-                "Help students to debug their codes and solve their issues"
+                "Developed and instructed programming courses, including creating tutorials, designing unit-tested problems, and providing debugging support to students."
             ]
         }
     ]
