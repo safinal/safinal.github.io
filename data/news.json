@@ -1,6 +1,17 @@
 {
     "news": [
         {
+            "date": "November 2025",
+            "text": [
+                "Ranked 🥇 1st in the ",
+                {
+                    "word": "Rayan International AI Contest",
+                    "url": "https://ai.rayan.global/"
+                },
+                "!"
+            ]
+        },
+        {
             "date": "May 2025",
             "text": [
                 "Ranked 3rd in the ",
