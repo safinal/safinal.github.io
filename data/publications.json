@@ -38,7 +38,7 @@
         }
       },
       "pdf": "https://arxiv.org/pdf/2512.01498",
-      "code": "https://github.com/safinal/rayan-ai-contest-solutions",
+      "code": "https://github.com/safinal/rayan-ai-contest-solutions"
     },
     {
       "title": "Matina: A Culturally-Aligned Persian Language Model Using Multiple LoRA Experts",
