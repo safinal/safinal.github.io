@@ -24,7 +24,7 @@
         }
       ],
       "image": "/images/publications/rayan.png",
-      "url": "https://arxiv.org/abs/2512.01498",
+      "url": "https://doi.org/10.48550/arXiv.2512.01498",
       "bibtex": {
         "data": {
           "@misc": "nafisi2025winningsolutionsrayanai",
@@ -88,7 +88,7 @@
         }
       ],
       "image": "/images/publications/matina.png",
-      "url": "https://aclanthology.org/2025.findings-acl.1074/",
+      "url": "https://doi.org/10.18653/v1/2025.findings-acl.1074",
       "bibtex": {
         "data": {
           "@inproceedings": "hosseinbeigi-etal-2025-matina-culturally",
