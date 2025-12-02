@@ -1,6 +1,46 @@
 {
   "publications": [
     {
+      "title": "Winning Solutions for the Rayan AI Contest: Compositional Retrieval, Zero-Shot Anomaly Detection, and Backdoor Detection",
+      "journal": "arXiv",
+      "year": "2025",
+      "authors": [
+        {
+          "name": "A. Nafisi",
+          "link": "https://scholar.google.com/citations?user=SM_UuoQAAAAJ&hl=en",
+          "co": false
+        },
+        {
+          "name": "S. Asghari",
+          "co": true
+        },
+        {
+          "name": "MS. Arvenaghi",
+          "co": true
+        },
+        {
+          "name": "H. Shakibania",
+          "co": false
+        }
+      ],
+      "image": "/images/publications/matina.png",
+      "url": "https://arxiv.org/abs/2512.01498",
+      "bibtex": {
+        "data": {
+          "@misc": "nafisi2025winningsolutionsrayanai",
+          "title": "Winning Solutions for the Rayan AI Contest: Compositional Retrieval, Zero-Shot Anomaly Detection, and Backdoor Detection",
+          "author": "Ali Nafisi and Sina Asghari and Mohammad Saeed Arvenaghi and Hossein Shakibania",
+          "year": "2025",
+          "eprint": "2512.01498",
+          "archivePrefix": "arXiv",
+          "primaryClass": "cs.LG",
+          "url": "https://arxiv.org/abs/2512.01498"
+        }
+      },
+      "pdf": "https://arxiv.org/pdf/2512.01498",
+      "code": "https://github.com/safinal/rayan-ai-contest-solutions",
+    },
+    {
       "title": "Matina: A Culturally-Aligned Persian Language Model Using Multiple LoRA Experts",
       "journal": "ACL Findings",
       "year": "2025",
