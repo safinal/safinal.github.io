@@ -8,7 +8,12 @@
                     "word": "Rayan International AI Contest",
                     "url": "https://ai.rayan.global/"
                 },
-                "!"
+                "! The technical report of our solutions is available on ",
+                {
+                    "word": "arXiv",
+                    "url": "https://doi.org/10.48550/arXiv.2512.01498"
+                },
+                ".",
             ]
         },
         {
