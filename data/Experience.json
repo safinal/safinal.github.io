@@ -1,17 +1,6 @@
 {
     "experience": [
         {
-            "position": "Graduate Research Assistant",
-            "laboratory": "Robot Intelligence & Vision Lab",
-            "url": "https://rivlab.github.io",
-            "logo": "/images/experience/robot.svg",
-            "type": "Work Study",
-            "date": "March 2025 - Present",
-            "information": [
-                "Exploring the use of diffusion models for counterfactual augmentation to mitigate spurious correlations in image datasets."
-            ]
-        },
-        {
             "position": "AI Engineer",
             "laboratory": "Matina AI",
             "url": "https://www.linkedin.com/company/matinallm/",
