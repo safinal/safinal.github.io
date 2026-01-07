@@ -39,17 +39,6 @@
             ]
         },
         {
-            "date": "March 2025",
-            "text": [
-                "I joined ",
-                {
-                    "word": "Robot Intelligence & Vision Lab",
-                    "url": "https://rivlab.github.io/"
-                },
-                " as a Graduate Student Researcher @ Bu-Ali Sina University."
-            ]
-        },
-        {
             "date": "March 2024",
             "text": ["Ranked 2nd in the final contest of the Quera Large Language Model Hackathon! 🏆"]
         },
@@ -63,10 +52,6 @@
                 },
                 " Journal! 🥂"
             ]
-        },
-        {
-            "date": "July 2023",
-            "text": ["Graduated from University of Kurdistan with a Bachelor's in Computer Engineering! 🎓"]
         }
     ]
 }
