@@ -1,0 +1,24 @@
+{
+    "awards": [
+        {
+            "date" : "May 2025",
+            "text" : ["3rd place in the LLM Agents Hackathon, Sharif University of Technology"]
+        },
+        {
+            "date" : "March 2024",
+            "text" : ["2nd Place in the Quera Large Language Model Hackathon"]
+        },
+        {
+            "date" : "June 2023",
+            "text" : ["3rd Place in the 28th Computer Engineering regional Olympiad (Region 5)"]
+        },
+        {
+            "date" : "July 2022",
+            "text" : ["1st Place in the 27th Computer Engineering regional Olympiad (Region 5)"]
+        },
+        {
+            "date" : "December 2020",
+            "text" : ["Qualifying and participating in the ICPC 2020 regional contest (Asia Region)"]
+        }
+    ]
+}

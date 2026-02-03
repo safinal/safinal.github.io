@@ -1,0 +1,77 @@
+{
+    "academics": [
+        {
+            "year": 2024,
+            "conferences": [
+                {
+                    "name": "CVPR",
+                    "papers": 2
+                }
+            ]
+        },
+        {
+            "year": 2023,
+            "conferences": [
+                {
+                    "name": "3DV",
+                    "papers": 4
+                }
+            ]
+        },
+        {
+            "year": 2022,
+            "conferences": [
+                {
+                    "name": "CVPR",
+                    "papers": 2
+                },
+                {
+                    "name": "3DV",
+                    "papers": 2
+                },
+                {
+                    "name": "CVPR",
+                    "papers": 2
+                },
+                {
+                    "name": "3DV",
+                    "papers": 2
+                }
+            ]
+        },
+        {
+            "year": 2022,
+            "conferences": [
+                {
+                    "name": "3DV",
+                    "papers": 3
+                }
+            ]
+        },
+        {
+            "year": 2021,
+            "conferences": [
+                {
+                    "name": "CVPR",
+                    "papers": 1
+                },
+                {
+                    "name": "3DV",
+                    "papers": 4
+                },
+                {
+                    "name": "CVPR",
+                    "papers": 2
+                },
+                {
+                    "name": "3DV",
+                    "papers": 2
+                },
+                {
+                    "name": "3DV",
+                    "papers": 2
+                }
+            ]
+        }
+    ]
+}

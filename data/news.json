@@ -1,0 +1,57 @@
+{
+    "news": [
+        {
+            "date": "November 2025",
+            "text": [
+                "Ranked 🥇 1st in the ",
+                {
+                    "word": "Rayan International AI Contest",
+                    "url": "https://ai.rayan.global/"
+                },
+                "! The technical report of our solutions is available on ",
+                {
+                    "word": "arXiv",
+                    "url": "https://doi.org/10.48550/arXiv.2512.01498"
+                },
+                "."
+            ]
+        },
+        {
+            "date": "May 2025",
+            "text": [
+                "Ranked 3rd in the ",
+                {
+                    "word": "SUT LLM Agents Hackathon",
+                    "url": "https://llm-sharif.com/"
+                },
+                "! 🏆"
+            ]
+        },
+        {
+            "date": "May 2025",
+            "text": [
+                "Our paper on Culturally Aligning LLMs has been accepted to ",
+                {
+                    "word": "ACL",
+                    "url": "https://2025.aclweb.org/"
+                },
+                "! 🎉"
+            ]
+        },
+        {
+            "date": "March 2024",
+            "text": ["Ranked 2nd in the final contest of the Quera Large Language Model Hackathon! 🏆"]
+        },
+        {
+            "date": "September 2023",
+            "text": [
+                "Our Paper on Text Embedding Clustering is Accepted to ",
+                {
+                    "word": "ESWA",
+                    "url": "https://www.sciencedirect.com/journal/expert-systems-with-applications"
+                },
+                " Journal! 🥂"
+            ]
+        }
+    ]
+}

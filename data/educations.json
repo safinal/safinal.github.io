@@ -1,0 +1,22 @@
+{
+    "educations": [
+        {
+            "image" : "/images/buali.svg",
+            "university": "Bu-Ali Sina University",
+            "degree": "MS, Artificial Intelligence",
+            "date": "September 2023 - Present",
+            "details":[
+                "GPA: 19.28/20.00 | 4.00/4.00 (Rank 1)"
+            ]
+        },
+        {
+            "image" : "/images/Kurdistan-University-Logo.svg",
+            "university": "University of Kurdistan",
+            "degree": "BS, Computer Engineering",
+            "date": "September 2019 - July 2023",
+            "details": [
+                "GPA: 17.64/20.00 | 3.65/4.00; last two years: 19.24/20.00 | 4.00/4.00"
+            ]
+        }
+    ]
+}
