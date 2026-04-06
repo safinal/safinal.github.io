@@ -1,6 +1,17 @@
 {
     "news": [
         {
+            "date": "April 2026",
+            "text": [
+                "Our paper on Mechanistic Interpretability of LLMs has been accepted to ",
+                {
+                    "word": "ACL",
+                    "url": "https://2026.aclweb.org/"
+                },
+                "! 🎉"
+            ]
+        },
+        {
             "date": "November 2025",
             "text": [
                 "Ranked 🥇 1st in the ",
