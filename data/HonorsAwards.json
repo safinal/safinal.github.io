@@ -1,6 +1,10 @@
 {
     "awards": [
         {
+            "date" : "November 2025",
+            "text" : ["1st place in the Rayan International AI Contest, Sharif University of Technology"]
+        },
+        {
             "date" : "May 2025",
             "text" : ["3rd place in the LLM Agents Hackathon, Sharif University of Technology"]
         },
