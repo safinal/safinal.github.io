@@ -21,7 +21,7 @@ const DetaiIntroduction = (props) => {
                     My research experience is rooted in Deep Learning, specifically Natural Language Processing, Multimodal Models, and AI Safety. I am now aiming to expand my research scope to explore Neuro-Symbolic AI and Reinforcement Learning.
                 </p>
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    My current work explores the use of diffusion models for counterfactual data augmentation to mitigate spurious correlations in image datasets.
+                    My current work explores the use of image editing models for counterfactual data augmentation to mitigate spurious correlations in image datasets.
                 </p>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
                     I’m actively seeking a PhD position where I can continue to grow as a researcher and contribute to cutting-edge, high-impact projects.
