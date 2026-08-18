@@ -23,9 +23,6 @@ const DetaiIntroduction = (props) => {
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
                     My current work explores the use of image editing models for counterfactual data augmentation to mitigate spurious correlations in image datasets.
                 </p>
-                // <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                //     I’m actively seeking a PhD position where I can continue to grow as a researcher and contribute to cutting-edge, high-impact projects.
-                // </p>
                 <EducationButton showEducation={showEducation} setShowEducation={setShowEducation} />
                 <div className={`${showEducation ? 'opacity-100' : 'opacity-0'} transition-opacity ease-in duration-700`}>
                     {props.educationData.educations.map((education, index) =>
