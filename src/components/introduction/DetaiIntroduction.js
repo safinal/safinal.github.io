@@ -20,9 +20,6 @@ const DetaiIntroduction = (props) => {
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
                     My research experience is rooted in Deep Learning, specifically Natural Language Processing, Multimodal Models, and AI Safety. I am now aiming to expand my research scope to explore Neuro-Symbolic AI and Reinforcement Learning.
                 </p>
-                <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
-                    My current work explores the use of image editing models for counterfactual data augmentation to mitigate spurious correlations in image datasets.
-                </p>
                 <EducationButton showEducation={showEducation} setShowEducation={setShowEducation} />
                 <div className={`${showEducation ? 'opacity-100' : 'opacity-0'} transition-opacity ease-in duration-700`}>
                     {props.educationData.educations.map((education, index) =>
