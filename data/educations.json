@@ -6,7 +6,8 @@
             "degree": "MS, Artificial Intelligence",
             "date": "September 2023 - September 2026",
             "details":[
-                "GPA: 19.28/20.00 (Rank 1)"
+                "GPA: 19.28/20.00 (Rank 1)",
+                "Thesis: Mitigating Spurious Correlations in Image Datasets via Counterfactual Image Augmentation"
             ]
         },
         {
