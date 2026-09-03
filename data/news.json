@@ -1,6 +1,17 @@
 {
     "news": [
         {
+            "date": "September 2026",
+            "text": [
+                "Defended my MS thesis and graduated with an MS in AI! 🎓 ",
+                {
+                    "word": "Thesis code",
+                    "url": "https://github.com/safinal/ms-thesis"
+                },
+                "."
+            ]
+        },
+        {
             "date": "April 2026",
             "text": [
                 "Our paper on Mechanistic Interpretability of LLMs has been accepted to ",
