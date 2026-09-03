@@ -50,6 +50,10 @@ const Header = () => {
                         <li className={activeSection === 'newsSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>News</li>
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'newsSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
                     </Link>
+                    <Link href="#mastersThesisSection">
+                        <li className={activeSection === 'mastersThesisSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Master&apos;s Thesis</li>
+                        <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'mastersThesisSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
+                    </Link>
                     <Link href="#publicationSection">
                         <li className={activeSection === 'publicationSection' ? 'text-[#B1C7DE] ' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Publications</li>
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'publicationSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
@@ -72,6 +76,9 @@ const Header = () => {
                 </Link>
                 <Link href="#newsSection" onClick={() => setMobileBar(false)}>
                     <span className={activeSection === 'newsSection' ? 'text-[#B1C7DE]' : 'text-white'}>News</span>
+                </Link>
+                <Link href="#mastersThesisSection" onClick={() => setMobileBar(false)}>
+                    <span className={activeSection === 'mastersThesisSection' ? 'text-[#B1C7DE]' : 'text-white'}>Master&apos;s Thesis</span>
                 </Link>
                 <Link href="#publicationSection" onClick={() => setMobileBar(false)}>
                     <span className={activeSection === 'publicationSection' ? 'text-[#B1C7DE]' : 'text-white'}>Publications</span>

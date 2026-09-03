@@ -14,11 +14,11 @@ const TalksPresentations = (props) => {
       <Image src={talksRectangle1} alt="" className="absolute left-0 top-[20%] -z-10 hidden lg:block" />
       <Image src={talksRectangle2} alt="" className="absolute right-0 top-[50%] -z-10 hidden lg:block" />
       <Image src={talksRectangle3} alt="" className="absolute right-8 top-[70%] -z-10 hidden lg:block" />
-      <div className="container m-auto px-7 lg:px-10 xl:px-20 2xl:px-28 3xl:px-44 pt-8 md:pt-16">
+      <div className="container m-auto px-7 lg:px-10 xl:px-20 2xl:px-28 3xl:px-44 pt-5 md:pt-8">
         <div className="">
           <p className="text-gray-dark  text-xl xl:text-2xl 2xl:text-3xl mb-3">Presentations</p>
         </div>
-        <div className="flex flex-col items-center justify-center pt-8 xl:pt-16">
+        <div className="flex flex-col items-center justify-center pt-4 xl:pt-6">
           {props.data.TalksPresentations.slice(0, 3).map((talksPresentations, index) =>
             <Cart key={index} author={false} data={talksPresentations} />
           )}
