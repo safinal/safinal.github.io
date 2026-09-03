@@ -1,0 +1,30 @@
+{
+  "thesis": {
+    "title": "Mitigating Spurious Correlations in Image Datasets via Counterfactual Image Augmentation",
+    "journal": "Bu-Ali Sina University",
+    "year": "2026",
+    "authors": [
+      {
+        "name": "A. Nafisi",
+        "link": "https://scholar.google.com/citations?user=SM_UuoQAAAAJ&hl=en",
+        "co": false
+      }
+    ],
+    "image": "/images/publications/ms-thesis.jpg",
+    "url": "https://github.com/safinal/ms-thesis",
+    "bibtex": {
+      "data": {
+        "@mastersthesis": "nafisi2026ms-thesis",
+        "title": "Mitigating Spurious Correlations in Image Datasets via Counterfactual Image Augmentation",
+        "author": "Ali Nafisi",
+        "year": "2026",
+        "school": "Bu-Ali Sina University"
+      }
+    },
+    "pdf": "",
+    "supervisor": {
+      "name": "H. Khotanlou",
+      "link": "https://scholar.google.com/citations?user=5YX31NgAAAAJ&hl=en"
+    }
+  }
+}

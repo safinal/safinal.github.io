@@ -50,6 +50,16 @@ const Cart = (props) => {
               )
             )}
           </div>}
+          {props.data.supervisor && <div className="text-[#A8AFB4] text-[9px] md:text-xs mt-1 md:mt-2">
+            <span className="text-[#7C7D81] font-semibold">Supervisor: </span>
+            {props.data.supervisor.link ? (
+              <Link className="hover:text-gray-dark" href={props.data.supervisor.link}>
+                {props.data.supervisor.name}
+              </Link>
+            ) : (
+              <span>{props.data.supervisor.name}</span>
+            )}
+          </div>}
         </div>
         <div className="[&>*]:mt-2 md:[&>*]:mt-4 flex flex-wrap [&>*]:mr-2 mb-0 sm:mb-2">
           {props.data.bibtex &&

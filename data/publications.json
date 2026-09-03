@@ -39,7 +39,7 @@
           "co": false
         }
       ],
-      "image": "/images/publications/counting.png",
+      "image": "/images/publications/counting.jpg",
       "url": "https://doi.org/10.18653/v1/2026.findings-acl.2031",
       "bibtex": {
         "data": {
@@ -164,7 +164,7 @@
           "url": "https://aclanthology.org/2025.findings-acl.1074/",
           "pages": "20874--20889",
           "ISBN": "979-8-89176-256-5",
-          "abstract": "Large language models (LLMs) are powerful tools for a variety of applications, but to interact effectively with users, they must align with the cultural values and linguistic nuances of their audience. However, existing LLMs often fall short in adequately modeling underrepresented languages and cultures, such as Persian, limiting their applicability and acceptance. To address this, we construct diverse, high-quality datasets specifically tailored to Persian linguistic and cultural contexts, ensuring a more authentic and context-aware training process. Using these datasets, we develop Matina, a Persian-focused multi-expert model designed to embody Iranian cultural values and linguistic structures. Matina is trained by fine-tuning LLaMA3.1 8B-Instruct models across five domains: culinary, tourism, socio-culture, translation, and summarization. These experts are combined using a classifier to create a unified multi-expert system. By leveraging culturally aligned datasets, Matina outperforms baseline models in both task performance and user satisfaction, demonstrating the importance of data-driven cultural adaptation in LLM development."       
+          "abstract": "Large language models (LLMs) are powerful tools for a variety of applications, but to interact effectively with users, they must align with the cultural values and linguistic nuances of their audience. However, existing LLMs often fall short in adequately modeling underrepresented languages and cultures, such as Persian, limiting their applicability and acceptance. To address this, we construct diverse, high-quality datasets specifically tailored to Persian linguistic and cultural contexts, ensuring a more authentic and context-aware training process. Using these datasets, we develop Matina, a Persian-focused multi-expert model designed to embody Iranian cultural values and linguistic structures. Matina is trained by fine-tuning LLaMA3.1 8B-Instruct models across five domains: culinary, tourism, socio-culture, translation, and summarization. These experts are combined using a classifier to create a unified multi-expert system. By leveraging culturally aligned datasets, Matina outperforms baseline models in both task performance and user satisfaction, demonstrating the importance of data-driven cultural adaptation in LLM development."
         }
       },
       "pdf": "https://aclanthology.org/2025.findings-acl.1074.pdf",
@@ -193,7 +193,7 @@
           "co": false
         }
       ],
-      "image": "/images/publications/1-s2.0-S0957417423022820-gr3_lrg.jpg",
+      "image": "/images/publications/EDA-TEC.jpg",
       "url": "https://doi.org/10.1016/j.eswa.2023.121780",
       "bibtex": {
         "data": {

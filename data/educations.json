@@ -1,17 +1,16 @@
 {
     "educations": [
         {
-            "image" : "/images/buali.svg",
+            "image": "/images/buali.svg",
             "university": "Bu-Ali Sina University",
             "degree": "MS, Artificial Intelligence",
             "date": "September 2023 - September 2026",
-            "details":[
-                "GPA: 19.28/20.00 (Rank 1)",
-                "Thesis: Mitigating Spurious Correlations in Image Datasets via Counterfactual Image Augmentation"
+            "details": [
+                "GPA: 19.28/20.00 (Rank 1)"
             ]
         },
         {
-            "image" : "/images/Kurdistan-University-Logo.svg",
+            "image": "/images/Kurdistan-University-Logo.svg",
             "university": "University of Kurdistan",
             "degree": "BS, Computer Engineering",
             "date": "September 2019 - July 2023",
