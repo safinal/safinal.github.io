@@ -8,6 +8,11 @@
         "name": "A. Nafisi",
         "link": "https://scholar.google.com/citations?user=SM_UuoQAAAAJ&hl=en",
         "co": false
+      },
+      {
+        "name": "H. Khotanlou (Supervisor)",
+        "link": "https://scholar.google.com/citations?user=5YX31NgAAAAJ&hl=en",
+        "co": false
       }
     ],
     "image": "/images/publications/ms-thesis.jpg",
@@ -16,15 +21,12 @@
       "data": {
         "@mastersthesis": "nafisi2026ms-thesis",
         "title": "Mitigating Spurious Correlations in Image Datasets via Counterfactual Image Augmentation",
-        "author": "Ali Nafisi",
+        "author": "Ali Nafisi and Hassan Khotanlou",
         "year": "2026",
         "school": "Bu-Ali Sina University"
       }
     },
     "pdf": "",
-    "supervisor": {
-      "name": "H. Khotanlou",
-      "link": "https://scholar.google.com/citations?user=5YX31NgAAAAJ&hl=en"
-    }
+    "code": "https://github.com/safinal/ms-thesis"
   }
 }

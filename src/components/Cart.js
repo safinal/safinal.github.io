@@ -38,7 +38,7 @@ const Cart = (props) => {
             )}
           </div>
           {props.author && <div className="text-[#A8AFB4] text-[9px] md:text-xs mt-2 md:mt-5">
-            {props.data.authors.map((author, index) => 
+            {props.data.authors.map((author, index) =>
               author.link ? (
                 <Link className="hover:text-gray-dark" key={index} href={author.link}>
                   {author.name}{author.co ? "*" : ""} {index + 1 !== props.data.authors.length && <span className="text-[#A8AFB4]"> | </span>}
@@ -48,16 +48,6 @@ const Cart = (props) => {
                   {author.name}{author.co ? "*" : ""} {index + 1 !== props.data.authors.length && <span className="text-[#A8AFB4]"> | </span>}
                 </span>
               )
-            )}
-          </div>}
-          {props.data.supervisor && <div className="text-[#A8AFB4] text-[9px] md:text-xs mt-1 md:mt-2">
-            <span className="text-[#7C7D81] font-semibold">Supervisor: </span>
-            {props.data.supervisor.link ? (
-              <Link className="hover:text-gray-dark" href={props.data.supervisor.link}>
-                {props.data.supervisor.name}
-              </Link>
-            ) : (
-              <span>{props.data.supervisor.name}</span>
             )}
           </div>}
         </div>
