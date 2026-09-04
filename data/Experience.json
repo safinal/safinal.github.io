@@ -1,5 +1,37 @@
 {
     "experience": [
-
+        {
+            "logo": "/images/robot.svg",
+            "url": "https://rivlab.github.io/",
+            "position": "Graduate Research Assistant",
+            "laboratory": "Robot Intelligence & Vision Lab",
+            "type": "",
+            "date": "Mar 2026 - Sep 2026",
+            "information": [
+                "Developed my master's thesis on mitigating spurious correlations in image datasets via counterfactual image augmentation, under the supervision of Prof. Hassan Khotanlou."
+            ]
+        },
+        {
+            "logo": "/images/mll_logo.jpg",
+            "url": "",
+            "position": "Research Assistant",
+            "laboratory": "Machine Learning Lab",
+            "type": "",
+            "date": "Nov 2025 - Feb 2026",
+            "information": [
+                "Research on mechanistic interpretability of LLMs, resulting in a publication at ACL 2026, under the supervision of Dr. Mahdieh Soleymani Baghshah."
+            ]
+        },
+        {
+            "logo": "/images/matinallm_logo.jpg",
+            "url": "",
+            "position": "AI Engineer",
+            "laboratory": "Matina",
+            "type": "Part-time",
+            "date": "Apr 2024 - Jan 2025",
+            "information": [
+                "Investigated and implemented culturally-aligned LLM post-training approaches by creating specialized datasets and leveraging Multiple LoRA Experts, resulting in the model Matina and a published paper at ACL 2025."
+            ]
+        }
     ]
 }
