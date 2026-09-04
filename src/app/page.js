@@ -4,6 +4,8 @@ import Image from "next/image";
 import { getData } from "../../lib/getData";
 import Publications from "@/components/Publications";
 import MastersThesis from "@/components/MastersThesis";
+import Experience from "@/components/Experience";
+import HonorsAwards from "@/components/HonorsAwards";
 import TalksPresentations from "@/components/TalksPresentations";
 
 export default function Home() {
@@ -22,6 +24,8 @@ export default function Home() {
       <MastersThesis data={mastersThesis} />
       <Publications data={publications} />
       <TalksPresentations data={talksPresentations} />
+      <Experience data={experience} />
+      <HonorsAwards data={awards} />
     </div>
   );
 }
