@@ -23,9 +23,9 @@ export default function Home() {
       <News data={news} />
       <MastersThesis data={mastersThesis} />
       <Publications data={publications} />
-      <TalksPresentations data={talksPresentations} />
       <Experience data={experience} />
       <HonorsAwards data={awards} />
+      <TalksPresentations data={talksPresentations} />
     </div>
   );
 }
