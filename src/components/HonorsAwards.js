@@ -14,7 +14,7 @@ const HonorsAwards = (props) => {
       <Image alt="" src={awardsRectangle1} className="absolute right-0 -top-44" />
       <div className="container m-auto">
         <div className="px-7 lg:px-10 xl:px-20 2xl:px-28 3xl:px-44 pt-8 md:pt-16">
-          <h1 className="text-gray-dark text-2xl 2xl:text-3xl">Honors & Awards</h1>
+          <h1 className="text-gray-dark text-2xl 2xl:text-3xl">Honors & Achievements</h1>
           <DateText showAll={showAllAwards} data={props.data.awards} />
         </div>
         {

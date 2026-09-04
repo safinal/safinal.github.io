@@ -63,7 +63,7 @@ const Header = () => {
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'experienceSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
                     </Link>
                     <Link href="#HonorsSection">
-                        <li className={activeSection === 'HonorsSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Honors</li>
+                        <li className={activeSection === 'HonorsSection' ? 'text-[#B1C7DE]' : 'text-white hover:text-[#B1C7DE] transition-all duration-700'}>Achievements</li>
                         <div className={`w-full h-[3px] rounded-lg transition-all duration-700 ${activeSection === 'HonorsSection' ? 'bg-[#B1C7DE]' : 'bg-transparent'}`}></div>
                     </Link>
                     <Link href="#TalksSection">
@@ -95,7 +95,7 @@ const Header = () => {
                     <span className={activeSection === 'experienceSection' ? 'text-[#B1C7DE]' : 'text-white'}>Experience</span>
                 </Link>
                 <Link href="#HonorsSection" onClick={() => setMobileBar(false)}>
-                    <span className={activeSection === 'HonorsSection' ? 'text-[#B1C7DE]' : 'text-white'}>Honors</span>
+                    <span className={activeSection === 'HonorsSection' ? 'text-[#B1C7DE]' : 'text-white'}>Achievements</span>
                 </Link>
                 <Link href="#TalksSection" onClick={() => setMobileBar(false)}>
                     <span className={activeSection === 'TalksSection' ? 'text-[#B1C7DE]' : 'text-white'}>Presentations</span>
