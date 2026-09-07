@@ -6,7 +6,7 @@ const DetaiIntroduction = (props) => {
     return (
         <div id="aboutSection" className="scroll-mt-32">
             <Image alt="" src={introductionRectangle1} className="absolute -top-16 xl:-top-8 left-0 hidden md:block" />
-            <div className="mb-32 3xl:mb-40 mt-[3rem] lg:mt-[5rem] 3xl:mt-[8rem]">
+            <div className="mb-12 3xl:mb-16 mt-[3rem] lg:mt-[5rem] 3xl:mt-[8rem]">
                 <p className="text-gray text-2xl xl:text-3xl 3xl:text-5xl font-medium mb-3 xl:mb-4 hidden md:block">Hello! I'm</p>
                 <h2 className="text-gray-dark text-3xl xl:text-4xl 3xl:text-6xl font-black hidden md:block">Ali Nafisi</h2>
                 <p className="text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-[10rem] md:mt-4 xl:mt-6 3xl:mt-10">
