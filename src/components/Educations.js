@@ -6,8 +6,7 @@ const Educations = (props) => {
     return (
         <div>
             <div id="Educations" className="scroll-mt-48"></div>
-            {props.showEducation && (
-                <div className="md:ml-5 lg:ml-10 xl:ml-20 flex">
+            <div className="md:ml-5 lg:ml-10 xl:ml-20 flex">
                     {/* Image Section */}
                     <div className="flex-shrink-0 w-20 h-20 lg:mr-5 relative">
                         <Image
@@ -50,7 +49,6 @@ const Educations = (props) => {
                         </div>
                     </div>
                 </div>
-            )}
         </div>
     );
 };
