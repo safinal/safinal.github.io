@@ -15,7 +15,8 @@ const DetaiIntroduction = (props) => {
                 <p className=" text-gray-dark text-sm md:text-base 2xl:text-lg 3xl:text-xl text-justify mt-2 xl:mt-3 3xl:mt-5">
                     My research experience is rooted in Deep Learning, specifically Natural Language Processing, Multimodal Models, and AI Safety. I am now aiming to expand my research scope to explore Neuro-Symbolic AI and Reinforcement Learning.
                 </p>
-                <div>
+                <div className="mt-8 xl:mt-12 3xl:mt-16">
+                    <h3 className="text-gray-dark text-xl xl:text-2xl 2xl:text-3xl mb-4 xl:mb-6">Education</h3>
                     {props.educationData.educations.map((education, index) =>
                         <Educations key={index} index={index} length={props.educationData.educations.length} educationData={education} />
                     )}
